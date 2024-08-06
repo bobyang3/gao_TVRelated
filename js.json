@@ -308,10 +308,12 @@
 {"key":"drpy_js_欧乐影院[飞]","name":"起飞 | 欧乐影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧乐影院[飞].js"},
 {"key":"drpy_js_小宝影院[飞]","name":"起飞 | 小宝影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院[飞].js"},
 
-{"key": "php2_hmezy","name": "黑木耳","type": 4,"api": "https://t4.doube.eu.org/heimuer.php","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":1},
-{"key": "T4-heimuer","name": "黑木耳┃(T4)","type": 4,"api": "https://tang.hz.cz/power/hme?token=b1dbee0e","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":1},
-{"key": "黑木耳","name": "黑木耳┃PG","type": 1,"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/","jar":"./pg.jar;md5;3a96a92c925e612936c4f8f6033b6fa2","searchable": 1,"quickSearch": 1},
-  
+{"key":"php2_hmezy","name": "黑木耳","type": 4,"api": "https://t4.doube.eu.org/heimuer.php","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":1},
+{"key":"T4-heimuer","name": "黑木耳┃(T4)","type": 4,"api": "https://tang.hz.cz/power/hme?token=b1dbee0e","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":1},
+{"key":"黑木耳","name": "黑木耳┃PG","type": 1,"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/","jar":"./pg.jar;md5;3a96a92c925e612936c4f8f6033b6fa2","searchable": 1,"quickSearch": 1},
+{"key":"php_huaweiba","name": "華為吧","type": 4,"api": "https://t4.doube.eu.org/huaweiba.php","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":1},
+{"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+
 {"key":"應用商店","name":"應用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext": "./json/market.json"},
 {"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
